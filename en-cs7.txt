@@ -255,27 +255,6 @@ a horse of a different color	odlišná záležitost	n:		Zdeněk Brož
 a hot handd	šťastná ruka při hrách			Zdeněk Brož
 a hot number	žhavé téma	n:		Zdeněk Brož
 a hot ticket	populární výrobek			Zdeněk Brož
-a hot topic	žhavé téma	n:		Zdeněk Brož
-a hotdog	hráč pro obecenstvo			Zdeněk Brož
-a hothead	cholerik	n:		Zdeněk Brož
-a hotshot	vejtaha	n: [amer.] [slang.] [přen.]		Zdeněk Brož
-a hotshot	výtaha	n:		Zdeněk Brož
-a household name	jméno známé osobnosti			Zdeněk Brož
-a howling blizzard	sněhová bouře			Zdeněk Brož
-a humdinger	nádherný výrobek			Zdeněk Brož
-a hundred	sto	n:		tata
-a hundred	stovka	n:		tata
-a hundred and one	sto a jeden	adj:		tata
-a hundred thousand	sto tisíc			slady
-a hundred times	stokrát			slady
-a hungry belly has no ears	řečmi člověka nenasytíš	[fráz.]		
-a jim dandy	nádherná věc			Zdeněk Brož
-a kept woman	"koupená" manželka	n:		Zdeněk Brož
-a la carte	podle jídelníčku			MiCh
-a la king	vařené v bílé krémové omáčce se zeleninou		gastronomie	MiCh
-a la mode	podle poslední módy			Zdeněk Brož
-a lady-killer	pohledný muž			Zdeněk Brož
-a law	zákon			
 a leg up	první krok			Zdeněk Brož
 a level playing field	vyrovnat šance na výhru			Zdeněk Brož
 a lick and a promise	rychlý úklid			Zdeněk Brož
@@ -428,28 +407,13 @@ a stone's throw	25 metrů			Zdeněk Brož
 a stone's throw	co by kamenem dohodil			Zdeněk Brož
 a stone's throw	krátká vzdálenost	n:		Zdeněk Brož
 a sucker for punishment	obětní beránek	n:		Zdeněk Brož
-a suicide pass (hockey)	druh nahrávky v hokeji			Zdeněk Brož
-a sure bet	jasný vítěz			Zdeněk Brož
-a sure thing	samozřejmost	n:		Zdeněk Brož
-a sweet tooth	chuť na sladké			Zdeněk Brož
-a takeoff on	založený na stejném nápadu			Zdeněk Brož
-a talking to	vynadání	n:		Zdeněk Brož
-a tall one	silný alkohol			Zdeněk Brož
-a tall story	báchorka			Pavel Cvrček
-a tempest in a teapot	mnoho povyku pro nic			Zdeněk Brož
-a thorn in my side	osoba dělající problémy			Zdeněk Brož
-a thousand	tisíc	n:		fred
-a three-bagger	šeredná osoba	n:		Zdeněk Brož
-a tiny bit	trošičku			
-a token gesture	malý náznak děkování	n:		Zdeněk Brož
-a tongue-lashing	vynadání	n:		Zdeněk Brož
-a total stranger	úplný cizinec	n:		Zdeněk Brož
+a suicide pass (hockey)	druh nahrávky v hokeji			Zdeněk Brožzzzz
 a touch	poněkud	adv:		Pino
-a touch of	příznaky nějaké nemoci			Zdeněk Brož
+a touch of	příznaky nějaké nemoci			Zdeněk Brožzzzzzz
 a tough act to follow	těžko napodobitelný výkon			Zdeněk Brož
-a tough call	těžké rozhodnutí	n:		Zdeněk Brož
-a tough time of it	těžká doba	n:		Zdeněk Brož
-a tower of strength	přítel do deště			Zdeněk Brož
+a tough call	těžké rozhodnutí	n:		Zdeněk Brožzzzzz
+a tough time of it	těžká doba	n:		Zdeněk Brožzzzz
+a tower of strength	přítel do deště			Zdeněk Brožzzzz
 a wake-up call	varování	n:		Zdeněk Brož
 a warning	varování	n:		Choly
 a wash	být si kvit			Zdeněk Brož
@@ -458,8 +422,8 @@ a way with words	povídavost	n:		Zdeněk Brož
 a way with words	schopnost povídat			Zdeněk Brož
 a whale of a game	napínavá hra	n:		Zdeněk Brož
 a while back	před nějakou dobou	[fráz.]	může být míněno před delší dobou	Pino
-a wild goose chase	bezvýsledné pronásledování	n:		Zdeněk Brož
-a wild goose chase	plýtvání časem			Zdeněk Brož
+a wild goose chase	bezvýsledné pronásledování	n:		zzzzZdeněk Brož
+a wild goose chase	plýtvání časem			Zdeněk Brožzzzzz
 a window of opportunity	příležitost	n:		Zdeněk Brož
 a wolf in sheep's clothing	nevinně vypadající nepřítel			Zdeněk Brož
 a word to the wise is sufficient	porozumění klíčovému slovu			Zdeněk Brož
