@@ -25,7 +25,6 @@ ABL	Airborne Laser	[zkr.] [voj.]		Zdeněk Brož a automatický překlad
 ABLE ACE	Airborne Laser Extended Atmospheric Characterization Experiment	[zkr.] [voj.]		Zdeněk Brož a automatický překlad
 ABLEX	Airborne Laser Experiment	[zkr.] [voj.]		Zdeněk Brož a automatický překlad
 ABM	protibalistická raketa	n:	"obranná raketa sestrojená pro sestřelení mezikontinentální balistické rakety"	
-ABR	Aero-Ballistic Rocket	[zkr.] [voj.]		Zdeněk Brož a automatický překlad
 AC	střídavý proud	n: [zkr.]		
 AC adapter	AC adaptér	n:		Pino
 AC adapter	nabíječka	n:	technicky nesprávně	Pino
@@ -166,8 +165,6 @@ a dog's age	10 až 15 let			Zdeněk Brož
 a dog's age	dlouhá doba	n:		Zdeněk Brož
 a dog's breakfast	směsice různých věcí	adj:		Zdeněk Brož
 a dog's life	psí život			Zdeněk Brož
-a dog's sleep	lehký spánek			Pavel Cvrček
-a downer (drug)	sedativum			Zdeněk Brož
 a downer (drug)	utišující lék			Zdeněk Brož
 a downer (sadness)	smutná událost	n:		Zdeněk Brož
 a drag	nuda	n:		Zdeněk Brož
@@ -189,7 +186,7 @@ a few	pár
 a few bricks short of a full load	nerozumný	adj:		Zdeněk Brož
 a fifth wheel	nepotřebné zařízení	n:		Zdeněk Brož
 a fighting chance	férová šance			Zdeněk Brož
-a fill-up	natankování paliva	n:		Zdeněk Brož
+a fill-up	natankování paliva	n:		Zdeněk Brožzzzz
 a fine line	úzký vztah			Zdeněk Brož
 a fine-toothed comb	detailní zkoumání	n:		Zdeněk Brož
 a firm hand	osoba usměrňující mravy			Zdeněk Brož
@@ -250,12 +247,12 @@ a helping hand	pomocná ruka	n:		Zdeněk Brož
 a hill of beans	malé množství	n:		Zdeněk Brož
 a hit	dávka drog			Zdeněk Brož
 a hit	hit	n:		Zdeněk Brož
-a hollow leg	mít velký splávek			Zdeněk Brož
-a holy pile	velké množství	n:		Zdeněk Brož
-a hoot	dobrá zábava	n:		Zdeněk Brož
+a hollow leg	mít velký splávek			Zdeněk Brožzzzz
+a holy pile	velké množství	n:		Zdeněk Brožzzzz
+a hoot	dobrá zábava	n:		Zdeněk Brožzzzz
 a hoot	velká legrace			Zdeněk Brož
 a horse of a different color	odlišná záležitost	n:		Zdeněk Brož
-a hot hand	šťastná ruka při hrách			Zdeněk Brož
+a hot handd	šťastná ruka při hrách			Zdeněk Brož
 a hot number	žhavé téma	n:		Zdeněk Brož
 a hot ticket	populární výrobek			Zdeněk Brož
 a hot topic	žhavé téma	n:		Zdeněk Brož
@@ -274,9 +271,6 @@ a hundred times	stokrát			slady
 a hungry belly has no ears	řečmi člověka nenasytíš	[fráz.]		
 a jim dandy	nádherná věc			Zdeněk Brož
 a kept woman	"koupená" manželka	n:		Zdeněk Brož
-a kept woman	manželka za peníze			Zdeněk Brož
-a la	na způsob			MiCh
-a la	ve stylu			MiCh
 a la carte	podle jídelníčku			MiCh
 a la king	vařené v bílé krémové omáčce se zeleninou		gastronomie	MiCh
 a la mode	podle poslední módy			Zdeněk Brož
@@ -334,6 +328,7 @@ a must	nutná zkušenost	n:		Zdeněk Brož
 a nail-biter	napínavá hra	n:		Zdeněk Brož
 a nail-biter	napínavý pořad			Zdeněk Brož
 a necktie party	lynčování	n:		Zdeněk Brož
+a neeeeeee				a
 a necktie party	oběšení	n:		Zdeněk Brož
 a new broom sweeps clean	nové koště dobře mete			Zdeněk Brož
 a new lease on life	nový začátek			Zdeněk Brož
